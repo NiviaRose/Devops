@@ -1,53 +1,47 @@
-# ഡോക്ടർ സ്ട്രേഞ്ചു: വിചിത്ര ലോകത്തിന്റെ ആനന്ദം :cyclone:
 
+# Readme
+ 
+<div  align="center">
 
-In a virtual reality game, blackpanther and ironman had to navigate a digital world filled with challenges and opponents.
-hawkeye and rocketraccoon lived in a magical world filled with talking animals and friendly wizards. They had a pet scarletwitch named wasp.
-As time travelers, gamora and antman traveled to different eras, encountering historical figures and witnessing pivotal events.
-wasp and scarletwitch lived in a magical world filled with talking animals and friendly wizards. They had a pet nebula named blackwidow.
-Amidst a series of comical events, starlord and govind found themselves in hilarious situations. They learned valuable lessons about mantis.
-In a steampunk-inspired world, thor and ironman built incredible inventions and sought to uncover the secrets of a hidden society.
-Upon discovering an ancient artifact, gamora and scarletwitch unlocked unimaginable powers and became the last hope for thor.
-As time travelers, drax and gamora traveled to different eras, encountering historical figures and witnessing pivotal events.
-On a beautiful sunny day, falcon and warmachine embarked on a mission to save ironman from an evil [Villain]. They used their special powers to defeat the villain and restore peace.
-Upon discovering an ancient artifact, mantis and antman unlocked unimaginable powers and became the last hope for spiderman.
-thor and gamora found a magical portal that transported them to a dimension filled with strange creatures and astonishing landscapes.
-Upon discovering an ancient artifact, spiderman and drax unlocked unimaginable powers and became the last hope for groot.
-loki and rocketraccoon were students at a prestigious academy for aspiring heroes, where they honed their abilities and forged unbreakable friendships.
-loki and ironman lived in a magical world filled with talking animals and friendly wizards. They had a pet captainamerica named hawkeye.
-As time travelers, groot and spiderman traveled to different eras, encountering historical figures and witnessing pivotal events.
-The fate of gamora rested in the hands of hawkeye and warmachine as they faced their greatest challenge yet.
-wasp and falcon lived in a magical world filled with talking animals and friendly wizards. They had a pet govind named groot.
-As members of a legendary order, gamora and blackpanther faced the dark forces threatening to plunge the world into eternal darkness.
-ironman and thor were explorers who traveled through time with their trusty time machine. They witnessed historical events and met famous figures like falcon.
-loki and falcon were secret agents on a mission to stop [Villain] from unleashing a devastating weapon upon the world.
-During a time-traveling adventure, spiderman and scarletwitch encountered their past and future selves, leading to unexpected consequences.
-Once upon a time, spiderman and scarletwitch went on a grand adventure. They discovered starlord and found a wasp.
-In a steampunk-inspired world, falcon and nebula built incredible inventions and sought to uncover the secrets of a hidden society.
-In a faraway land, falcon was an aspiring captainmarvel who met hawkeye, a mischievous prankster. Together, they brought laughter to everyone around them.
-In a world where captainamerica and govind possessed incredible superpowers, they joined forces to protect vision from various threats.
-As time travelers, thor and starlord traveled to different eras, encountering historical figures and witnessing pivotal events.
-Once upon a time, groot and nebula went on a grand adventure. They discovered ironman and found a spiderman.
-In a steampunk-inspired world, hawkeye and starlord built incredible inventions and sought to uncover the secrets of a hidden society.
-In a faraway land, vision was an aspiring warmachine who met antman, a mischievous prankster. Together, they brought laughter to everyone around them.
-During a time-traveling adventure, mantis and gamora encountered their past and future selves, leading to unexpected consequences.
-In a virtual reality game, captainamerica and nebula had to navigate a digital world filled with challenges and opponents.
-In a land ruled by magical creatures, gamora and ironman sought to restore harmony between different species and bring peace to falcon.
-captainmarvel and blackwidow lived in a magical world filled with talking animals and friendly wizards. They had a pet antman named falcon.
-hawkeye and blackwidow were students at a prestigious academy for aspiring heroes, where they honed their abilities and forged unbreakable friendships.
-In a land ruled by magical creatures, wasp and nebula sought to restore harmony between different species and bring peace to ironman.
-Once upon a time, captainmarvel and rocketraccoon went on a grand adventure. They discovered blackwidow and found a doctorstrange.
-Once upon a time, hawkeye and govind went on a grand adventure. They discovered antman and found a wasp.
-Upon discovering an ancient artifact, blackpanther and drax unlocked unimaginable powers and became the last hope for captainamerica.
-doctorstrange and blackwidow were secret agents on a mission to stop [Villain] from unleashing a devastating weapon upon the world.
-In a virtual reality game, antman and vision had to navigate a digital world filled with challenges and opponents.
-As time travelers, groot and captainmarvel traveled to different eras, encountering historical figures and witnessing pivotal events.
-The fate of govind rested in the hands of hawkeye and hawkeye as they faced their greatest challenge yet.
-As members of a legendary order, gamora and gamora faced the dark forces threatening to plunge the world into eternal darkness.
-spiderman and blackwidow were secret agents on a mission to stop [Villain] from unleashing a devastating weapon upon the world.
-As members of a legendary order, groot and warmachine faced the dark forces threatening to plunge the world into eternal darkness.
-In a steampunk-inspired world, falcon and vision built incredible inventions and sought to uncover the secrets of a hidden society.
-blackpanther and nebula were secret agents on a mission to stop [Villain] from unleashing a devastating weapon upon the world.
-On a beautiful sunny day, wasp and warmachine embarked on a mission to save loki from an evil [Villain]. They used their special powers to defeat the villain and restore peace.
-rocketraccoon and loki were explorers who traveled through time with their trusty time machine. They witnessed historical events and met famous figures like antman.
-Deep inside a mysterious forest, govind and ironman encountered a friendly tribe of blackwidow. They helped the tribe overcome their challenges and made lifelong friends.
+<img  src="https://i0.wp.com/scifiinterfaces.com/wp-content/uploads/2017/08/Eye-of-Agamoto-apple.gif?resize=545%2C227&ssl=1"  alt="Dark Realm"  width="1800"  length="500">
+
+</div>
+As the Avengers now find themselves in possession of the powerful Reality Stone, their first step towards restoring balance to the universe. With newfound hope, they embark on a perilous quest to acquire the Time Stone, rumoured to be hidden deeply within the vast realms of Git.
+
+After untold efforts, they uncover the map, revealing the location and the individual who holds the knowledge they seek. The trail leads them to a mysterious person known as "The Watcher"
+
+  
+
+The Watcher, a being who observes the cosmos without interference, possesses the knowledge of the Time Stone's location. As the Avengers approach, The Watcher acknowledges their quest and warns of the dangers that lie ahead.
+
+  
+
+He cryptically says, "Someone once said, 'Death is what gives life meaning, to know your days are numbered, your time is short.' and long ago, had placed the time stone in a commit, with the name of 'one who was born in the tear of Oshtur'".These enigmatic words echo in their minds, reminding them of the urgency of their mission.
+
+  
+
+The map to the time stone was once exposed to the world, leading seekers to its location. However, with the passage of time, the map has been obscured, buried under countless commits in a repository meant to transcend time itself. Here lies the gateway to the Time Stone, a treasure sought by heroes and villains alike.The trail leads them to a mysterious entity, an enigmatic being that possesses the wisdom of ages.
+
+  
+
+This entity, a keeper of secrets and a guardian of time, had imbued the repository with its knowledge, safeguarding the secret in the very essence of the commit. Their presence in the repository was akin to a timeless observer, watching over the secrets hidden within.
+
+  
+
+Now armed with the Reality Stone, the Avengers possess a tool to navigate the intricate paths of Git. They realise that the key to finding the Time Stone lies in understanding the repository's history and merging the threads of time.
+
+  
+
+With each merge commit, they piece together fragments of the repository's timeline. The Reality Stone grants them glimpses of pivotal moments, guiding them towards the hidden map that holds the gateway to the Time Stone.
+
+  
+
+"Now you know where and whom to find in order to discover the Time Stone," The Watcher says, their eyes filled with a sense of gravity and purpose.
+
+  
+
+With gratitude and determination, the Avengers set forth towards the gateway to the Time Stone. Their journey is far from over, and the challenges ahead are great. But united as a team, they stand ready to face whatever trials may come.
+
+  
+
+And so, they venture forth, guardians of the stones, protectors of the universe, and bearers of hope. Their epic quest continues as the fate of all living beings hangs in the balance, guided by the words that resonate in their hearts - "Death is what gives life meaning, to know your days are numbered, your time is short."
